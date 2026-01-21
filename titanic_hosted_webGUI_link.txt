@@ -1,0 +1,6 @@
+Name: Chidi-Uba Esther Chinazom
+Reg Number: 250000065 (Msc.1)
+Machine Learning Algorithm Used: Logistic Regression
+Model persistence method used: Joblib
+Live URL of the hosted application: https://titanic-survivor-prediction-model.onrender.com
+GitHub repository link: https://github.com/ubachidiesther8-create/Titanic_survivor_prediction_model
